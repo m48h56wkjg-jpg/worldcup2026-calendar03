@@ -1,0 +1,20 @@
+[
+  {
+    "home": "Mexique",
+    "away": "Afrique du Sud",
+    "home_flag": "🇲🇽",
+    "away_flag": "🇿🇦",
+    "date": "2026-06-11",
+    "time": "21:00",
+    "stadium": "Mexico City"
+  },
+  {
+    "home": "Canada",
+    "away": "Équipe à confirmer",
+    "home_flag": "🇨🇦",
+    "away_flag": "🏳️",
+    "date": "2026-06-12",
+    "time": "03:00",
+    "stadium": "Toronto"
+  }
+]
