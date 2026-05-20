@@ -1,20 +1,938 @@
 [
   {
     "home": "Mexique",
-    "away": "Afrique du Sud TEST",
+    "away": "Afrique du Sud",
     "home_flag": "🇲🇽",
     "away_flag": "🇿🇦",
     "date": "2026-06-11",
     "time": "21:00",
-    "stadium": "Mexico City"
+    "stadium": "Mexico, Mexique"
+  },
+  {
+    "home": "Corée du Sud",
+    "away": "République tchèque",
+    "home_flag": "🇰🇷",
+    "away_flag": "🇨🇿",
+    "date": "2026-06-12",
+    "time": "04:00",
+    "stadium": "Zapopan, Mexique"
   },
   {
     "home": "Canada",
-    "away": "Équipe à confirmer",
+    "away": "Bosnie-Herzégovine",
     "home_flag": "🇨🇦",
-    "away_flag": "🏳️",
+    "away_flag": "🇧🇦",
     "date": "2026-06-12",
+    "time": "21:00",
+    "stadium": "Toronto, Canada"
+  },
+  {
+    "home": "États-Unis",
+    "away": "Paraguay",
+    "home_flag": "🇺🇸",
+    "away_flag": "🇵🇾",
+    "date": "2026-06-13",
     "time": "03:00",
-    "stadium": "Toronto"
+    "stadium": "Los Angeles, États-Unis"
+  },
+  {
+    "home": "Qatar",
+    "away": "Suisse",
+    "home_flag": "🇶🇦",
+    "away_flag": "🇨🇭",
+    "date": "2026-06-13",
+    "time": "21:00",
+    "stadium": "Santa Clara, États-Unis"
+  },
+  {
+    "home": "Brésil",
+    "away": "Maroc",
+    "home_flag": "🇧🇷",
+    "away_flag": "🇲🇦",
+    "date": "2026-06-14",
+    "time": "00:00",
+    "stadium": "New Jersey, États-Unis"
+  },
+  {
+    "home": "Haïti",
+    "away": "Écosse",
+    "home_flag": "🇭🇹",
+    "away_flag": "🏴",
+    "date": "2026-06-14",
+    "time": "03:00",
+    "stadium": "Foxborough, États-Unis"
+  },
+  {
+    "home": "Australie",
+    "away": "Turquie",
+    "home_flag": "🇦🇺",
+    "away_flag": "🇹🇷",
+    "date": "2026-06-14",
+    "time": "06:00",
+    "stadium": "Vancouver, Canada"
+  },
+  {
+    "home": "Allemagne",
+    "away": "Curaçao",
+    "home_flag": "🇩🇪",
+    "away_flag": "🇨🇼",
+    "date": "2026-06-14",
+    "time": "19:00",
+    "stadium": "Houston, États-Unis"
+  },
+  {
+    "home": "Pays-Bas",
+    "away": "Japon",
+    "home_flag": "🇳🇱",
+    "away_flag": "🇯🇵",
+    "date": "2026-06-14",
+    "time": "22:00",
+    "stadium": "Arlington, États-Unis"
+  },
+  {
+    "home": "Côte d’Ivoire",
+    "away": "Équateur",
+    "home_flag": "🇨🇮",
+    "away_flag": "🇪🇨",
+    "date": "2026-06-15",
+    "time": "01:00",
+    "stadium": "Philadelphia, États-Unis"
+  },
+  {
+    "home": "Suède",
+    "away": "Tunisie",
+    "home_flag": "🇸🇪",
+    "away_flag": "🇹🇳",
+    "date": "2026-06-15",
+    "time": "04:00",
+    "stadium": "Guadalupe, Mexique"
+  },
+  {
+    "home": "Espagne",
+    "away": "Cap-Vert",
+    "home_flag": "🇪🇸",
+    "away_flag": "🇨🇻",
+    "date": "2026-06-15",
+    "time": "18:00",
+    "stadium": "Atlanta, États-Unis"
+  },
+  {
+    "home": "Belgique",
+    "away": "Égypte",
+    "home_flag": "🇧🇪",
+    "away_flag": "🇪🇬",
+    "date": "2026-06-15",
+    "time": "21:00",
+    "stadium": "Seattle, États-Unis"
+  },
+  {
+    "home": "Arabie saoudite",
+    "away": "Uruguay",
+    "home_flag": "🇸🇦",
+    "away_flag": "🇺🇾",
+    "date": "2026-06-16",
+    "time": "00:00",
+    "stadium": "Miami, États-Unis"
+  },
+  {
+    "home": "Iran",
+    "away": "Nouvelle-Zélande",
+    "home_flag": "🇮🇷",
+    "away_flag": "🇳🇿",
+    "date": "2026-06-16",
+    "time": "03:00",
+    "stadium": "Los Angeles, États-Unis"
+  },
+  {
+    "home": "France",
+    "away": "Sénégal",
+    "home_flag": "🇫🇷",
+    "away_flag": "🇸🇳",
+    "date": "2026-06-16",
+    "time": "21:00",
+    "stadium": "New Jersey, États-Unis"
+  },
+  {
+    "home": "Irak",
+    "away": "Norvège",
+    "home_flag": "🇮🇶",
+    "away_flag": "🇳🇴",
+    "date": "2026-06-17",
+    "time": "00:00",
+    "stadium": "Foxborough, États-Unis"
+  },
+  {
+    "home": "Argentine",
+    "away": "Algérie",
+    "home_flag": "🇦🇷",
+    "away_flag": "🇩🇿",
+    "date": "2026-06-17",
+    "time": "03:00",
+    "stadium": "Kansas City, États-Unis"
+  },
+  {
+    "home": "Autriche",
+    "away": "Jordanie",
+    "home_flag": "🇦🇹",
+    "away_flag": "🇯🇴",
+    "date": "2026-06-17",
+    "time": "06:00",
+    "stadium": "Santa Clara, États-Unis"
+  },
+  {
+    "home": "Portugal",
+    "away": "RD Congo",
+    "home_flag": "🇵🇹",
+    "away_flag": "🇨🇩",
+    "date": "2026-06-17",
+    "time": "19:00",
+    "stadium": "Houston, États-Unis"
+  },
+  {
+    "home": "Angleterre",
+    "away": "Croatie",
+    "home_flag": "🏴",
+    "away_flag": "🇭🇷",
+    "date": "2026-06-17",
+    "time": "22:00",
+    "stadium": "Arlington, États-Unis"
+  },
+  {
+    "home": "Ghana",
+    "away": "Panama",
+    "home_flag": "🇬🇭",
+    "away_flag": "🇵🇦",
+    "date": "2026-06-18",
+    "time": "01:00",
+    "stadium": "Toronto, Canada"
+  },
+  {
+    "home": "Ouzbékistan",
+    "away": "Colombie",
+    "home_flag": "🇺🇿",
+    "away_flag": "🇨🇴",
+    "date": "2026-06-18",
+    "time": "04:00",
+    "stadium": "Mexico, Mexique"
+  },
+  {
+    "home": "République tchèque",
+    "away": "Afrique du Sud",
+    "home_flag": "🇨🇿",
+    "away_flag": "🇿🇦",
+    "date": "2026-06-18",
+    "time": "18:00",
+    "stadium": "Atlanta, États-Unis"
+  },
+  {
+    "home": "Suisse",
+    "away": "Bosnie-Herzégovine",
+    "home_flag": "🇨🇭",
+    "away_flag": "🇧🇦",
+    "date": "2026-06-18",
+    "time": "21:00",
+    "stadium": "Los Angeles, États-Unis"
+  },
+  {
+    "home": "Canada",
+    "away": "Qatar",
+    "home_flag": "🇨🇦",
+    "away_flag": "🇶🇦",
+    "date": "2026-06-19",
+    "time": "00:00",
+    "stadium": "Vancouver, Canada"
+  },
+  {
+    "home": "Mexique",
+    "away": "Corée du Sud",
+    "home_flag": "🇲🇽",
+    "away_flag": "🇰🇷",
+    "date": "2026-06-19",
+    "time": "03:00",
+    "stadium": "Zapopan, Mexique"
+  },
+  {
+    "home": "États-Unis",
+    "away": "Australie",
+    "home_flag": "🇺🇸",
+    "away_flag": "🇦🇺",
+    "date": "2026-06-19",
+    "time": "21:00",
+    "stadium": "Seattle, États-Unis"
+  },
+  {
+    "home": "Écosse",
+    "away": "Maroc",
+    "home_flag": "🏴",
+    "away_flag": "🇲🇦",
+    "date": "2026-06-20",
+    "time": "00:00",
+    "stadium": "Foxborough, États-Unis"
+  },
+  {
+    "home": "Brésil",
+    "away": "Haïti",
+    "home_flag": "🇧🇷",
+    "away_flag": "🇭🇹",
+    "date": "2026-06-20",
+    "time": "02:30",
+    "stadium": "Philadelphia, États-Unis"
+  },
+  {
+    "home": "Turquie",
+    "away": "Paraguay",
+    "home_flag": "🇹🇷",
+    "away_flag": "🇵🇾",
+    "date": "2026-06-20",
+    "time": "05:00",
+    "stadium": "Santa Clara, États-Unis"
+  },
+  {
+    "home": "Pays-Bas",
+    "away": "Suède",
+    "home_flag": "🇳🇱",
+    "away_flag": "🇸🇪",
+    "date": "2026-06-20",
+    "time": "19:00",
+    "stadium": "Houston, États-Unis"
+  },
+  {
+    "home": "Allemagne",
+    "away": "Côte d’Ivoire",
+    "home_flag": "🇩🇪",
+    "away_flag": "🇨🇮",
+    "date": "2026-06-20",
+    "time": "22:00",
+    "stadium": "Toronto, Canada"
+  },
+  {
+    "home": "Équateur",
+    "away": "Curaçao",
+    "home_flag": "🇪🇨",
+    "away_flag": "🇨🇼",
+    "date": "2026-06-21",
+    "time": "02:00",
+    "stadium": "Kansas City, États-Unis"
+  },
+  {
+    "home": "Tunisie",
+    "away": "Japon",
+    "home_flag": "🇹🇳",
+    "away_flag": "🇯🇵",
+    "date": "2026-06-21",
+    "time": "06:00",
+    "stadium": "Guadalupe, Mexique"
+  },
+  {
+    "home": "Espagne",
+    "away": "Arabie saoudite",
+    "home_flag": "🇪🇸",
+    "away_flag": "🇸🇦",
+    "date": "2026-06-21",
+    "time": "18:00",
+    "stadium": "Atlanta, États-Unis"
+  },
+  {
+    "home": "Belgique",
+    "away": "Iran",
+    "home_flag": "🇧🇪",
+    "away_flag": "🇮🇷",
+    "date": "2026-06-21",
+    "time": "21:00",
+    "stadium": "Los Angeles, États-Unis"
+  },
+  {
+    "home": "Uruguay",
+    "away": "Cap-Vert",
+    "home_flag": "🇺🇾",
+    "away_flag": "🇨🇻",
+    "date": "2026-06-22",
+    "time": "00:00",
+    "stadium": "Miami, États-Unis"
+  },
+  {
+    "home": "Nouvelle-Zélande",
+    "away": "Égypte",
+    "home_flag": "🇳🇿",
+    "away_flag": "🇪🇬",
+    "date": "2026-06-22",
+    "time": "03:00",
+    "stadium": "Vancouver, Canada"
+  },
+  {
+    "home": "Argentine",
+    "away": "Autriche",
+    "home_flag": "🇦🇷",
+    "away_flag": "🇦🇹",
+    "date": "2026-06-22",
+    "time": "19:00",
+    "stadium": "Arlington, États-Unis"
+  },
+  {
+    "home": "France",
+    "away": "Irak",
+    "home_flag": "🇫🇷",
+    "away_flag": "🇮🇶",
+    "date": "2026-06-22",
+    "time": "23:00",
+    "stadium": "Philadelphia, États-Unis"
+  },
+  {
+    "home": "Norvège",
+    "away": "Sénégal",
+    "home_flag": "🇳🇴",
+    "away_flag": "🇸🇳",
+    "date": "2026-06-23",
+    "time": "02:00",
+    "stadium": "Toronto, Canada"
+  },
+  {
+    "home": "Jordanie",
+    "away": "Algérie",
+    "home_flag": "🇯🇴",
+    "away_flag": "🇩🇿",
+    "date": "2026-06-23",
+    "time": "05:00",
+    "stadium": "Santa Clara, États-Unis"
+  },
+  {
+    "home": "Portugal",
+    "away": "Ouzbékistan",
+    "home_flag": "🇵🇹",
+    "away_flag": "🇺🇿",
+    "date": "2026-06-23",
+    "time": "19:00",
+    "stadium": "Houston, États-Unis"
+  },
+  {
+    "home": "Angleterre",
+    "away": "Ghana",
+    "home_flag": "🏴",
+    "away_flag": "🇬🇭",
+    "date": "2026-06-23",
+    "time": "22:00",
+    "stadium": "Foxborough, États-Unis"
+  },
+  {
+    "home": "Panama",
+    "away": "Croatie",
+    "home_flag": "🇵🇦",
+    "away_flag": "🇭🇷",
+    "date": "2026-06-24",
+    "time": "01:00",
+    "stadium": "Foxborough, États-Unis"
+  },
+  {
+    "home": "Colombie",
+    "away": "RD Congo",
+    "home_flag": "🇨🇴",
+    "away_flag": "🇨🇩",
+    "date": "2026-06-24",
+    "time": "04:00",
+    "stadium": "Zapopan, Mexique"
+  },
+  {
+    "home": "Suisse",
+    "away": "Canada",
+    "home_flag": "🇨🇭",
+    "away_flag": "🇨🇦",
+    "date": "2026-06-24",
+    "time": "21:00",
+    "stadium": "Vancouver, Canada"
+  },
+  {
+    "home": "Bosnie-Herzégovine",
+    "away": "Qatar",
+    "home_flag": "🇧🇦",
+    "away_flag": "🇶🇦",
+    "date": "2026-06-24",
+    "time": "21:00",
+    "stadium": "Seattle, États-Unis"
+  },
+  {
+    "home": "Maroc",
+    "away": "Haïti",
+    "home_flag": "🇲🇦",
+    "away_flag": "🇭🇹",
+    "date": "2026-06-25",
+    "time": "00:00",
+    "stadium": "Atlanta, États-Unis"
+  },
+  {
+    "home": "Écosse",
+    "away": "Brésil",
+    "home_flag": "🏴",
+    "away_flag": "🇧🇷",
+    "date": "2026-06-25",
+    "time": "00:00",
+    "stadium": "Miami, États-Unis"
+  },
+  {
+    "home": "Afrique du Sud",
+    "away": "Corée du Sud",
+    "home_flag": "🇿🇦",
+    "away_flag": "🇰🇷",
+    "date": "2026-06-25",
+    "time": "03:00",
+    "stadium": "Guadalupe, Mexique"
+  },
+  {
+    "home": "République tchèque",
+    "away": "Mexique",
+    "home_flag": "🇨🇿",
+    "away_flag": "🇲🇽",
+    "date": "2026-06-25",
+    "time": "03:00",
+    "stadium": "Mexico, Mexique"
+  },
+  {
+    "home": "Curaçao",
+    "away": "Côte d’Ivoire",
+    "home_flag": "🇨🇼",
+    "away_flag": "🇨🇮",
+    "date": "2026-06-25",
+    "time": "22:00",
+    "stadium": "Philadelphia, États-Unis"
+  },
+  {
+    "home": "Équateur",
+    "away": "Allemagne",
+    "home_flag": "🇪🇨",
+    "away_flag": "🇩🇪",
+    "date": "2026-06-25",
+    "time": "22:00",
+    "stadium": "New Jersey, États-Unis"
+  },
+  {
+    "home": "Tunisie",
+    "away": "Pays-Bas",
+    "home_flag": "🇹🇳",
+    "away_flag": "🇳🇱",
+    "date": "2026-06-26",
+    "time": "01:00",
+    "stadium": "Kansas City, États-Unis"
+  },
+  {
+    "home": "Japon",
+    "away": "Suède",
+    "home_flag": "🇯🇵",
+    "away_flag": "🇸🇪",
+    "date": "2026-06-26",
+    "time": "01:00",
+    "stadium": "Arlington, États-Unis"
+  },
+  {
+    "home": "Turquie",
+    "away": "États-Unis",
+    "home_flag": "🇹🇷",
+    "away_flag": "🇺🇸",
+    "date": "2026-06-26",
+    "time": "04:00",
+    "stadium": "Los Angeles, États-Unis"
+  },
+  {
+    "home": "Paraguay",
+    "away": "Australie",
+    "home_flag": "🇵🇾",
+    "away_flag": "🇦🇺",
+    "date": "2026-06-26",
+    "time": "04:00",
+    "stadium": "Santa Clara, États-Unis"
+  },
+  {
+    "home": "Norvège",
+    "away": "France",
+    "home_flag": "🇳🇴",
+    "away_flag": "🇫🇷",
+    "date": "2026-06-26",
+    "time": "21:00",
+    "stadium": "Foxborough, États-Unis"
+  },
+  {
+    "home": "Sénégal",
+    "away": "Irak",
+    "home_flag": "🇸🇳",
+    "away_flag": "🇮🇶",
+    "date": "2026-06-26",
+    "time": "21:00",
+    "stadium": "Toronto, Canada"
+  },
+  {
+    "home": "Cap-Vert",
+    "away": "Arabie saoudite",
+    "home_flag": "🇨🇻",
+    "away_flag": "🇸🇦",
+    "date": "2026-06-27",
+    "time": "02:00",
+    "stadium": "Houston, États-Unis"
+  },
+  {
+    "home": "Uruguay",
+    "away": "Espagne",
+    "home_flag": "🇺🇾",
+    "away_flag": "🇪🇸",
+    "date": "2026-06-27",
+    "time": "02:00",
+    "stadium": "Zapopan, Mexique"
+  },
+  {
+    "home": "Nouvelle-Zélande",
+    "away": "Belgique",
+    "home_flag": "🇳🇿",
+    "away_flag": "🇧🇪",
+    "date": "2026-06-27",
+    "time": "05:00",
+    "stadium": "Vancouver, Canada"
+  },
+  {
+    "home": "Égypte",
+    "away": "Iran",
+    "home_flag": "🇪🇬",
+    "away_flag": "🇮🇷",
+    "date": "2026-06-27",
+    "time": "05:00",
+    "stadium": "Seattle, États-Unis"
+  },
+  {
+    "home": "Panama",
+    "away": "Angleterre",
+    "home_flag": "🇵🇦",
+    "away_flag": "🏴",
+    "date": "2026-06-27",
+    "time": "23:00",
+    "stadium": "New Jersey, États-Unis"
+  },
+  {
+    "home": "Croatie",
+    "away": "Ghana",
+    "home_flag": "🇭🇷",
+    "away_flag": "🇬🇭",
+    "date": "2026-06-27",
+    "time": "23:00",
+    "stadium": "Philadelphia, États-Unis"
+  },
+  {
+    "home": "Colombie",
+    "away": "Portugal",
+    "home_flag": "🇨🇴",
+    "away_flag": "🇵🇹",
+    "date": "2026-06-28",
+    "time": "01:30",
+    "stadium": "Miami, États-Unis"
+  },
+  {
+    "home": "RD Congo",
+    "away": "Ouzbékistan",
+    "home_flag": "🇨🇩",
+    "away_flag": "🇺🇿",
+    "date": "2026-06-28",
+    "time": "01:30",
+    "stadium": "Atlanta, États-Unis"
+  },
+  {
+    "home": "Algérie",
+    "away": "Autriche",
+    "home_flag": "🇩🇿",
+    "away_flag": "🇦🇹",
+    "date": "2026-06-28",
+    "time": "04:00",
+    "stadium": "Kansas City, États-Unis"
+  },
+  {
+    "home": "Jordanie",
+    "away": "Argentine",
+    "home_flag": "🇯🇴",
+    "away_flag": "🇦🇷",
+    "date": "2026-06-28",
+    "time": "04:00",
+    "stadium": "Arlington, États-Unis"
+  },
+  {
+    "home": "Groupe 2e groupe A",
+    "away": "Groupe 2e groupe B",
+    "home_flag": "🏳️",
+    "away_flag": "🏳️",
+    "date": "2026-06-28",
+    "time": "21:00",
+    "stadium": "Los Angeles, États-Unis"
+  },
+  {
+    "home": "Groupe Vainqueur groupe C",
+    "away": "Groupe 2e groupe F",
+    "home_flag": "🏳️",
+    "away_flag": "🏳️",
+    "date": "2026-06-29",
+    "time": "19:00",
+    "stadium": "Houston, États-Unis"
+  },
+  {
+    "home": "Groupe Vainqueur groupe E",
+    "away": "Groupe 3e des groupes A/B/C/D/F",
+    "home_flag": "🏳️",
+    "away_flag": "🏳️",
+    "date": "2026-06-29",
+    "time": "22:30",
+    "stadium": "Foxborough, États-Unis"
+  },
+  {
+    "home": "Groupe Vainqueur groupe F",
+    "away": "Groupe 2e groupe C",
+    "home_flag": "🏳️",
+    "away_flag": "🏳️",
+    "date": "2026-06-30",
+    "time": "03:00",
+    "stadium": "Guadalupe, Mexique"
+  },
+  {
+    "home": "Groupe 2e groupe E",
+    "away": "Groupe 2e groupe I",
+    "home_flag": "🏳️",
+    "away_flag": "🏳️",
+    "date": "2026-06-30",
+    "time": "19:00",
+    "stadium": "Arlington, États-Unis"
+  },
+  {
+    "home": "Groupe Vainqueur groupe I",
+    "away": "Groupe 3e des groupes C/D/F/G/H",
+    "home_flag": "🏳️",
+    "away_flag": "🏳️",
+    "date": "2026-06-30",
+    "time": "23:00",
+    "stadium": "New Jersey, États-Unis"
+  },
+  {
+    "home": "Groupe Vainqueur groupe A",
+    "away": "Groupe 3e des groupes C/E/F/H/I",
+    "home_flag": "🏳️",
+    "away_flag": "🏳️",
+    "date": "2026-07-01",
+    "time": "03:00",
+    "stadium": "Mexico, Mexique"
+  },
+  {
+    "home": "Groupe Vainqueur groupe L",
+    "away": "Groupe 3e des groupes E/H/I/J/K",
+    "home_flag": "🏳️",
+    "away_flag": "🏳️",
+    "date": "2026-07-01",
+    "time": "18:00",
+    "stadium": "Atlanta, États-Unis"
+  },
+  {
+    "home": "Groupe Vainqueur groupe G",
+    "away": "Groupe 3e des groupes A/E/H/I/J",
+    "home_flag": "🏳️",
+    "away_flag": "🏳️",
+    "date": "2026-07-01",
+    "time": "22:00",
+    "stadium": "Seattle, États-Unis"
+  },
+  {
+    "home": "Groupe Vainqueur groupe D",
+    "away": "Groupe 3e des groupes B/E/F/I/J",
+    "home_flag": "🏳️",
+    "away_flag": "🏳️",
+    "date": "2026-07-02",
+    "time": "02:00",
+    "stadium": "Santa Clara, États-Unis"
+  },
+  {
+    "home": "Groupe Vainqueur groupe H",
+    "away": "Groupe 2e groupe J",
+    "home_flag": "🏳️",
+    "away_flag": "🏳️",
+    "date": "2026-07-02",
+    "time": "21:00",
+    "stadium": "Los Angeles, États-Unis"
+  },
+  {
+    "home": "Groupe 2e groupe K",
+    "away": "Groupe 2e groupe L",
+    "home_flag": "🏳️",
+    "away_flag": "🏳️",
+    "date": "2026-07-03",
+    "time": "01:00",
+    "stadium": "Toronto, Canada"
+  },
+  {
+    "home": "Groupe Vainqueur groupe B",
+    "away": "Groupe 3e des groupes E/F/G/I/J",
+    "home_flag": "🏳️",
+    "away_flag": "🏳️",
+    "date": "2026-07-03",
+    "time": "05:00",
+    "stadium": "Vancouver, Canada"
+  },
+  {
+    "home": "Groupe 2e groupe D",
+    "away": "Groupe 2e groupe G",
+    "home_flag": "🏳️",
+    "away_flag": "🏳️",
+    "date": "2026-07-03",
+    "time": "20:00",
+    "stadium": "Arlington, États-Unis"
+  },
+  {
+    "home": "Groupe Vainqueur groupe J",
+    "away": "Groupe 2e groupe H",
+    "home_flag": "🏳️",
+    "away_flag": "🏳️",
+    "date": "2026-07-04",
+    "time": "00:00",
+    "stadium": "Miami, États-Unis"
+  },
+  {
+    "home": "Groupe Vainqueur groupe K",
+    "away": "Groupe 3e des groupes D/E/I/J/L",
+    "home_flag": "🏳️",
+    "away_flag": "🏳️",
+    "date": "2026-07-04",
+    "time": "03:30",
+    "stadium": "Kansas City, États-Unis"
+  },
+  {
+    "home": "Match Vainqueur match 73",
+    "away": "Match Vainqueur match 75",
+    "home_flag": "🏳️",
+    "away_flag": "🏳️",
+    "date": "2026-07-04",
+    "time": "19:00",
+    "stadium": "Houston, États-Unis"
+  },
+  {
+    "home": "Match Vainqueur match 74",
+    "away": "Match Vainqueur match 77",
+    "home_flag": "🏳️",
+    "away_flag": "🏳️",
+    "date": "2026-07-04",
+    "time": "23:00",
+    "stadium": "Philadelphia, États-Unis"
+  },
+  {
+    "home": "Match Vainqueur match 76",
+    "away": "Match Vainqueur match 78",
+    "home_flag": "🏳️",
+    "away_flag": "🏳️",
+    "date": "2026-07-05",
+    "time": "22:00",
+    "stadium": "New Jersey, États-Unis"
+  },
+  {
+    "home": "Match Vainqueur match 79",
+    "away": "Match Vainqueur match 80",
+    "home_flag": "🏳️",
+    "away_flag": "🏳️",
+    "date": "2026-07-06",
+    "time": "02:00",
+    "stadium": "Mexico, Mexique"
+  },
+  {
+    "home": "Match Vainqueur match 83",
+    "away": "Match Vainqueur match 84",
+    "home_flag": "🏳️",
+    "away_flag": "🏳️",
+    "date": "2026-07-06",
+    "time": "21:00",
+    "stadium": "Arlington, États-Unis"
+  },
+  {
+    "home": "Match Vainqueur match 81",
+    "away": "Match Vainqueur match 82",
+    "home_flag": "🏳️",
+    "away_flag": "🏳️",
+    "date": "2026-07-07",
+    "time": "02:00",
+    "stadium": "Seattle, États-Unis"
+  },
+  {
+    "home": "Match Vainqueur match 86",
+    "away": "Match Vainqueur match 88",
+    "home_flag": "🏳️",
+    "away_flag": "🏳️",
+    "date": "2026-07-07",
+    "time": "18:00",
+    "stadium": "Atlanta, États-Unis"
+  },
+  {
+    "home": "Match Vainqueur match 85",
+    "away": "Match Vainqueur match 87",
+    "home_flag": "🏳️",
+    "away_flag": "🏳️",
+    "date": "2026-07-07",
+    "time": "22:00",
+    "stadium": "Vancouver, Canada"
+  },
+  {
+    "home": "Match Vainqueur match 89",
+    "away": "Match Vainqueur match 90",
+    "home_flag": "🏳️",
+    "away_flag": "🏳️",
+    "date": "2026-07-09",
+    "time": "22:00",
+    "stadium": "Foxborough, États-Unis"
+  },
+  {
+    "home": "Match Vainqueur match 93",
+    "away": "Match Vainqueur match 94",
+    "home_flag": "🏳️",
+    "away_flag": "🏳️",
+    "date": "2026-07-10",
+    "time": "21:00",
+    "stadium": "Los Angeles, États-Unis"
+  },
+  {
+    "home": "Match Vainqueur match 91",
+    "away": "Match Vainqueur match 92",
+    "home_flag": "🏳️",
+    "away_flag": "🏳️",
+    "date": "2026-07-11",
+    "time": "23:00",
+    "stadium": "Miami, États-Unis"
+  },
+  {
+    "home": "Match Vainqueur match 95",
+    "away": "Match Vainqueur match 96",
+    "home_flag": "🏳️",
+    "away_flag": "🏳️",
+    "date": "2026-07-12",
+    "time": "03:00",
+    "stadium": "Kansas City, États-Unis"
+  },
+  {
+    "home": "Match Vainqueur match 97",
+    "away": "Match Vainqueur match 98",
+    "home_flag": "🏳️",
+    "away_flag": "🏳️",
+    "date": "2026-07-14",
+    "time": "21:00",
+    "stadium": "Arlington, États-Unis"
+  },
+  {
+    "home": "Match Vainqueur match 99",
+    "away": "Match Vainqueur match 100",
+    "home_flag": "🏳️",
+    "away_flag": "🏳️",
+    "date": "2026-07-15",
+    "time": "21:00",
+    "stadium": "Atlanta, États-Unis"
+  },
+  {
+    "home": "Match Perdant match 101",
+    "away": "Match Perdant match 102",
+    "home_flag": "🏳️",
+    "away_flag": "🏳️",
+    "date": "2026-07-18",
+    "time": "23:00",
+    "stadium": "Miami, États-Unis"
+  },
+  {
+    "home": "Match Vainqueur match 101",
+    "away": "Match Vainqueur match 102",
+    "home_flag": "🏳️",
+    "away_flag": "🏳️",
+    "date": "2026-07-19",
+    "time": "21:00",
+    "stadium": "New Jersey, États-Unis"
   }
 ]
